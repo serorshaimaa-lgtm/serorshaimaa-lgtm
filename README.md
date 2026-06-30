@@ -1,13 +1,13 @@
-# Hi, I'm Shaimaa Seror (Coco) 👋
+# Hi, I'm Shaimaa Seror 👋
 
-🎓 Software Engineering Student @ Al Yamamah University | GPA 3.65 — Dean's Honor List
+🎓 Software Engineering Student @ Al Yamamah University | GPA 3.62 — Dean's Honor List
 💻 Full-Stack Development
 📍 Riyadh, Saudi Arabia
 
 ---
 
 ### 🚀 About Me
-I'm a third-year Software Engineering student passionate about building practical, user-focused web and mobile applications.
+I'm a Software Engineer passionate about building practical, user-focused web and mobile applications.
 
 ### 🛠️ Tech Stack
 **Languages:** JavaScript, PHP, C#, SQL
